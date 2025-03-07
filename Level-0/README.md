@@ -8,9 +8,6 @@ This folder contains the implementation of a **Doubly Linked List** in C++ with:
 
 ## 📂 Files
 - `doubly_linked_list.cpp` → C++ implementation.
-- `screenshots/` → Contains output images.
+- `output` → Contains output images.
 
-## 🔧 Compilation & Execution
-```sh
-g++ doubly_linked_list.cpp -o dll
-./dll
+
