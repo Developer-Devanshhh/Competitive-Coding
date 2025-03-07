@@ -87,6 +87,5 @@ int main() {
 
     dll.traverseForward();
     dll.traverseBackward();
-
     return 0;
 }
